@@ -1,6 +1,19 @@
+<p>
+  <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cat-animation.gif" width="100">
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/helloworld.svg" width="400">
 </p>
+
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Imagem de fundo -->
+  <image href="https://raw.githubusercontent.com/iasmiin/iasmiin/main/helloworld.svg" width="400"/>
+  
+  <!-- GIF sobreposto na direita -->
+  <image href="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cat-animation.gif" width="100" x="300" y="50"/>
+</svg>
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50"> &nbsp;&nbsp;&nbsp;
