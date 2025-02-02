@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cat-animation.gif" width="100">
 </p>
 
+# Tecnologias <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/folder.svg" width="45">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50"> &nbsp;&nbsp;&nbsp;
