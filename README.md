@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/helloworld.svg" width="385">
-  <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cat-animation.gif" width="100">
+  <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cat-animation.gif" width="125">
 </p>
 
 ### Languages & Tools &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/notebook.svg" width="25">
