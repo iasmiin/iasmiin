@@ -5,7 +5,6 @@
 
 ### Languages & Tools &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/notebook.svg" width="25">
 
-
 <div align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45"> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="45"> &nbsp;&nbsp;&nbsp;          
@@ -20,6 +19,23 @@
 <br>  
 
 ### My Career Path &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/rocket.svg" width="25">
+
+Throughout my academic journey, I actively participated in several projects focused on process automation using computational tools.
+
+One of my key projects involved developing a position control and supervision system for a servopneumatic setup, where I used MATLAB to implement advanced methods for system identification. More details about this project can be found [here](#).  
+
+In my final year, I developed a Python tool to generate and organize augmented synthetic data for training deep learning models. You can check out this work [here](#). 
+
+Beyond my academic work, I explored Data Science, working with libraries like NumPy and Pandas. I also studied Deep Learning with PyTorch, focusing on neural networks and training methodologies. Related studies: [Data Science](#) and [PyTorch](#).
+
+Currently, my professional focus includes:
+
+✅ Development of Integrated IoT Systems → Designing IoT solutions by integrating devices and sensors for real-time data collection and monitoring.
+
+✅ Analytical Tools in GIS (Geographic Information Systems) → Developing custom Python tools within QGIS to perform advanced geoprocessing and spatial analysis, transforming complex data into actionable, strategic insights.
+
+✅ Cloud API Deployment → Optimizing system scalability and performance by deploying APIs in the cloud, ensuring high availability and reliability.
+
 
 <!--
 **iasmiin/iasmiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
