@@ -3,6 +3,11 @@
   <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cat-animation.gif" width="125">
 </p>
 
+### Education &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/education.svg" width="27">
+- **Bachelor’s Degree in Mechatronics Engineering**\
+Federal Institute of Education, Science, and Technology of Santa Catarina (IFSC)
+<br> 
+
 ### Languages & Tools &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/notebook.svg" width="25">
 
 <div align="">
