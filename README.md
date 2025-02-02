@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/helloworld.svg" width="400">
+  <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/helloworld.svg" width="385">
   <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cat-animation.gif" width="100">
 </p>
 
