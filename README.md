@@ -6,7 +6,6 @@
 ## Education &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/education.svg" width="27">
 - **Bachelor’s Degree in Mechatronics Engineering**\
 Federal Institute of Education, Science, and Technology of Santa Catarina (IFSC)
-<br> 
 
 ## Languages & Tools &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/notebook.svg" width="25">
 
@@ -21,7 +20,6 @@ Federal Institute of Education, Science, and Technology of Santa Catarina (IFSC)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="45"> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="45"> 
 </div>
-<br>  
 
 ## My Career Path &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/rocket.svg" width="25">
 
@@ -40,7 +38,6 @@ Throughout my academic journey, I actively participated in several projects focu
 <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/bar-chart.svg" width="15"> &nbsp; **Analytical Tools in GIS (Geographic Information Systems)** → Developing custom Python tools within QGIS to perform advanced geoprocessing and spatial analysis, transforming complex data into actionable, strategic insights.
 
 <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cloud.svg" width="15"> &nbsp; **Cloud API Deployment** → Optimizing system scalability and performance by deploying APIs in the cloud, ensuring high availability and reliability.
-<br> 
 
 ## Contact &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/mailbox.svg" width="25">
 - **LinkedIn**: [Iasmin Bordin](https://www.linkedin.com/in/iasmin-bordin-b38487222/)  
