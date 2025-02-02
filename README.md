@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/helloworld.svg" width="400">
   <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cat-animation.gif" width="100">
 </p>
-<br>  
 
 ### Languages & Tools &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/notebook.svg" width="25">
 
