@@ -40,7 +40,11 @@ Throughout my academic journey, I actively participated in several projects focu
 <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/bar-chart.svg" width="15"> &nbsp; **Analytical Tools in GIS (Geographic Information Systems)** → Developing custom Python tools within QGIS to perform advanced geoprocessing and spatial analysis, transforming complex data into actionable, strategic insights.
 
 <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cloud.svg" width="15"> &nbsp; **Cloud API Deployment** → Optimizing system scalability and performance by deploying APIs in the cloud, ensuring high availability and reliability.
+<br> 
 
+## Contact &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/mailbox.svg" width="25">
+- **LinkedIn**: [Iasmin Bordin](https://www.linkedin.com/in/iasmin-bordin/)  
+- **GitHub**: [iasmiin](https://github.com/iasmiin)  
 
 <!--
 **iasmiin/iasmiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
