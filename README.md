@@ -4,7 +4,7 @@
 </p>
 <br>  
 
-### Languages & Tools &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/not.svg" width="45">
+### Languages & Tools &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/notebook.svg" width="25">
 
 
 <div align="">
