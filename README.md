@@ -30,11 +30,11 @@ Beyond my academic work, I explored Data Science, working with libraries like Nu
 
 Currently, my professional focus includes:
 
-✅ Development of Integrated IoT Systems → Designing IoT solutions by integrating devices and sensors for real-time data collection and monitoring.
+<img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/globe.svg" width="15"> &nbsp; Development of Integrated IoT Systems → Designing IoT solutions by integrating devices and sensors for real-time data collection and monitoring.
 
-✅ Analytical Tools in GIS (Geographic Information Systems) → Developing custom Python tools within QGIS to perform advanced geoprocessing and spatial analysis, transforming complex data into actionable, strategic insights.
+<img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/bar-chart.svg" width="15"> &nbsp; Analytical Tools in GIS (Geographic Information Systems) → Developing custom Python tools within QGIS to perform advanced geoprocessing and spatial analysis, transforming complex data into actionable, strategic insights.
 
-✅ Cloud API Deployment → Optimizing system scalability and performance by deploying APIs in the cloud, ensuring high availability and reliability.
+<img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cloud.svg" width="15"> &nbsp; Cloud API Deployment → Optimizing system scalability and performance by deploying APIs in the cloud, ensuring high availability and reliability.
 
 
 <!--
