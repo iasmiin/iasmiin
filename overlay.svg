@@ -3,5 +3,5 @@
   <image href="https://raw.githubusercontent.com/iasmiin/iasmiin/main/helloworld.svg" width="400"/>
   
   <!-- GIF sobreposto na direita -->
-  <image href="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cat-animation.gif" width="100" x="500" y="100"/>
+  <image href="https://raw.githubusercontent.com/iasmiin/iasmiin/main/cat-animation.gif" width="100" x="1000" y="100"/>
 </svg>
