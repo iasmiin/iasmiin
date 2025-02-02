@@ -24,7 +24,7 @@ Throughout my academic journey, I actively participated in several projects focu
 
 One of my key projects involved developing a position control and supervision system for a servopneumatic setup, where I used MATLAB to implement advanced methods for system identification. More details about this project can be found [here](#).  
 
-In my final year, I developed a Python tool to generate and organize augmented synthetic data for training deep learning models. You can check out this work [here](#). 
+In my final year, I developed a Python tool to generate and organize augmented synthetic data for training deep learning models. You can check out this work [here](blender-data-generation-tool). 
 
 Beyond my academic work, I explored Data Science, working with libraries like NumPy and Pandas. I also studied Deep Learning with PyTorch, focusing on neural networks and training methodologies. Related studies: [Data Science](#) and [PyTorch](#).
 
