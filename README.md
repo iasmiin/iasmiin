@@ -43,7 +43,7 @@ Throughout my academic journey, I actively participated in several projects focu
 <br> 
 
 ## Contact &nbsp; <img src="https://raw.githubusercontent.com/iasmiin/iasmiin/main/mailbox.svg" width="25">
-- **LinkedIn**: [Iasmin Bordin](https://www.linkedin.com/in/iasmin-bordin/)  
+- **LinkedIn**: [Iasmin Bordin](https://www.linkedin.com/in/iasmin-bordin-b38487222/)  
 - **GitHub**: [iasmiin](https://github.com/iasmiin)  
 
 <!--
