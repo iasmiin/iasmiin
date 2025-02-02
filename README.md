@@ -2,7 +2,7 @@
 
 ![Hello World](https://raw.githubusercontent.com/iasmiin/iasmiin/refs/heads/main/helloworld.svg?token=GHSAT0AAAAAAC6HBVUSORFQQXVPNAOPDT4WZ462G3A/iasmiin/iasmiin/main/helloworld.svg)
 
-https://raw.githubusercontent.com/iasmiin/iasmiin/refs/heads/main/helloworld.svg?token=GHSAT0AAAAAAC6HBVUSORFQQXVPNAOPDT4WZ462G3A
+![Hello World](https://raw.githubusercontent.com/iasmiin/iasmiin/main/helloworld.svg)
 
 <!--
 **iasmiin/iasmiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
